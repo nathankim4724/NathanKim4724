@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a freshman at MIT trying to figure things out
 
 <!--
 **nathankim4724/NathanKim4724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
